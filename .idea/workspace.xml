@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32178c4d-51c3-403a-99cc-b180c73a2314" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Styles.css" afterDir="false" />
+    <list default="true" id="32178c4d-51c3-403a-99cc-b180c73a2314" name="Default Changelist" comment="add immage">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,8 +65,20 @@
       <workItem from="1602098894970" duration="3000" />
       <workItem from="1602136954757" duration="597000" />
       <workItem from="1602616873499" duration="1399000" />
-      <workItem from="1602675091656" duration="16835000" />
+      <workItem from="1602675091656" duration="17504000" />
+      <workItem from="1602697776759" duration="13000" />
+      <workItem from="1602742136069" duration="612000" />
+      <workItem from="1603300783643" duration="1548000" />
+      <workItem from="1603303535368" duration="8476000" />
     </task>
+    <task id="LOCAL-00001" summary="add immage">
+      <created>1602696642220</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602696642220</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,6 +94,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add immage" />
+    <option name="LAST_COMMIT_MESSAGE" value="add immage" />
   </component>
   <component name="WindowStateProjectService">
     <state x="527" y="262" key="Github.ShareDialog" timestamp="1602098840375">
@@ -91,5 +109,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="467" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602098845847" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602696665104">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602696665104" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1603313717648">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1603313717648" />
   </component>
 </project>
