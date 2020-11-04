@@ -20,41 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21d02ce9-aaf8-44ee-bb1a-d00d2a4f18e2" name="Default Changelist" comment="new task">
-      <change afterPath="$PROJECT_DIR$/.idea/g-kvartskhava10.github.io.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2/602016e4cc2c61721971a5780302c6ff-700.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2/air.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2/earth.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2/fire.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2/water.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-4.5.3-dist.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/js/bootstrap.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorry-We-Missed-You-1800-nr-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/1/Sorry-We-Missed-You-1800-nr-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/1/Styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/download.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/1/download.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptIntro-master/JavascriptIntro-master/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptIntro-master/JavascriptIntro-master/.idea/JavascriptIntro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptIntro-master/JavascriptIntro-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptIntro-master/JavascriptIntro-master/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptIntro-master/JavascriptIntro-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptIntro-master/JavascriptIntro-master/js-lesson-1/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptIntro-master/JavascriptIntro-master/js-lesson-1/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptIntro-master/JavascriptIntro-master/js-lesson-1/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptIntro-master/JavascriptIntro-master/js-lesson-1/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptIntro-master/JavascriptIntro-master/js-lesson-1/img/photo1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptIntro-master/JavascriptIntro-master/js-lesson-1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptIntro-master/JavascriptIntro-master/js-lesson-1/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavascriptIntro-master/JavascriptIntro-master/js-lesson-1/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +65,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -107,7 +87,15 @@
       <workItem from="1603714735847" duration="158000" />
       <workItem from="1603735355692" duration="8080000" />
       <workItem from="1603745664945" duration="15000" />
-      <workItem from="1603813936031" duration="3074000" />
+      <workItem from="1603813936031" duration="4842000" />
+      <workItem from="1604508529657" duration="7000" />
+      <workItem from="1604511148393" duration="3000" />
+      <workItem from="1604513344795" duration="7000" />
+      <workItem from="1604514648933" duration="4000" />
+      <workItem from="1604515138143" duration="9000" />
+      <workItem from="1604515548346" duration="18000" />
+      <workItem from="1604516093241" duration="152000" />
+      <workItem from="1604523434280" duration="1088000" />
     </task>
     <task id="LOCAL-00001" summary="j\">
       <created>1603714495733</created>
@@ -116,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603714495733</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new task">
+      <created>1603817441589</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603817441589</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,9 +136,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="new task" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1603714517068">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1603818178959">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1603714517068" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1603818178959" />
   </component>
 </project>
